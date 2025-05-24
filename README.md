@@ -33,9 +33,7 @@
 ├── package.json
 └── README.md
 
-bash
-Copy
-Edit
+CURATED by :- Neksssii
 
 ## 🛠️ Installation
 
@@ -81,7 +79,6 @@ We welcome contributions! Feel free to fork this repo, make changes, and submit 
 🪪 License
 This project is licensed under the MIT License.
 
-CURATED by :- Neksssii
 
 ---Install dependencies---
 
