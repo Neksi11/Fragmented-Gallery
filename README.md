@@ -85,15 +85,10 @@ This project is licensed under the MIT License.
 ⚠️ Note: The node_modules folder is not included in the repository.
 Please run the following command to download and install all necessary packages:
 
-bash
-Copy
-Edit
-npm install
-Run the app locally
 
-bash
-Copy
-Edit
-npm run dev
+npm install         #<---------
+Run the app locally    #<---------
+
+npm run dev    #<---------
 Then open http://localhost:3000 in your browser.
 
